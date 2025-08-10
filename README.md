@@ -7,7 +7,7 @@
 
 - 🧠 2nd-year CS student @ USTHB  
 - 🎮 I build games too—2 in Python, 1 in C (yep, I’m dangerous in any language)  
-- 🌱 Currently focusing on `JavaScript`, `Vue.js`, and sexy UI/UX  
+- 🌱 Currently focusing on `JavaScript`, `React`, and sexy UI/UX  
 - 🎙️ Creator & host of the [Legacy Podcast](#), where voices echo with meaning  
 - 🌿 My soul lives in a cabin surrounded by waterfalls and code  
 - ✨ Creating: websites, games, podcasts, and a legacy to remember  
@@ -24,7 +24,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
