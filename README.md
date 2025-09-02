@@ -13,7 +13,7 @@
 
 I'm a passionate **2nd-year Computer Science student** at USTHB with a focus on front-end development and future AI engineering.
 
-- 🎮 Developed **2 games in Python and 1 in C**, combining logic with creative gameplay
+- 🎮 Developed **games in Python, Java, Lua and C**, combining logic with creative gameplay
 - 🌱 Currently mastering **AI/ML concepts, Three.js, and advanced React**
 - 🎙️ Creator and host of the **Legacy Podcast**, sharing meaningful stories
 - 🌿 In my ideal world, I'm coding from a peaceful cabin surrounded by nature
