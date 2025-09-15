@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Xiao+Ro!;Front-End+%26+Games+Developer;Future+AI+Engineer;Podcaster;Nature+Lover" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Xiao+Ro!;Front-End+%26+Games+Developer;Future+AI+Engineer;Podcaster;Nature+Lover" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
@@ -9,50 +11,58 @@
 
 </div>
 
+---
+
 ## 🌿 About Me
 
-I'm a passionate **3rd-year Computer Science student** at USTHB with a focus on front-end development and future AI engineering.
+I’m a **3rd-year Computer Science student** at USTHB passionate about **front-end development, AI/ML, and creative game design**.  
 
-- 🎮 Developed **games in Python, Java, Lua and C**, combining logic with creative gameplay
-- 🌱 Currently mastering **AI/ML concepts, Three.js, and advanced React**
-- 🎙️ Creator and host of the **Legacy Podcast**, sharing meaningful stories
-- 🌿 In my ideal world, I'm coding from a peaceful cabin surrounded by nature
-- ✨ Passionate about creating immersive web experiences and intelligent systems
+- 🎮 Built games in **Python, Java, Lua, and C**—blending logic with creativity  
+- 🌱 Currently diving deeper into **AI/ML, Three.js, and advanced React**  
+- 🎙️ Host of the **Legacy Podcast**, sharing meaningful stories  
+- 🌿 Dreaming of coding from a peaceful cabin in nature  
+- ✨ Obsessed with crafting immersive web experiences & intelligent systems  
+
+---
+
+## 🚀 Featured Projects
+
+- 🎮 [**Dots & Boxes (C with Raylib)**](https://github.com/romy-dev-hub/dots-and-boxes)  
+   Classic grid-based game with clean design and interactive gameplay.  
+
+- 🌐 [**Portfolio Website**](https://xiao-ro-portfolio.vercel.app/)  
+   My personal portfolio showcasing projects and blogs, built with Next.js + Tailwind.  
+
+- 🤖 [**Assembly Calculator**](https://github.com/romy-dev-hub/assembly-calculator)  
+   A low-level calculator supporting conversions, floating points, and clean UI.  
+
+---
 
 ## 🛠️ Tech Stack
 
-### Core Technologies
+### Core Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-8E0E80?style=for-the-badge&logo=assembly&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-8E0E80?style=for-the-badge)
 
 ### Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide_React-22C55E?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Game Development
-![LOVE2D](https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge&logo=love2d&logoColor=white)
-
-### Backend & Databases
+### Backend & Tools
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
 
 ## 📊 GitHub Metrics
 
@@ -61,6 +71,8 @@ I'm a passionate **3rd-year Computer Science student** at USTHB with a focus on 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romy-dev-hub&theme=merko)
 
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
