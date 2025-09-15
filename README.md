@@ -11,7 +11,7 @@
 
 ## 🌿 About Me
 
-I'm a passionate **2nd-year Computer Science student** at USTHB with a focus on front-end development and future AI engineering.
+I'm a passionate **3rd-year Computer Science student** at USTHB with a focus on front-end development and future AI engineering.
 
 - 🎮 Developed **games in Python, Java, Lua and C**, combining logic with creative gameplay
 - 🌱 Currently mastering **AI/ML concepts, Three.js, and advanced React**
