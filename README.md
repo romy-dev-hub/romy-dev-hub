@@ -34,7 +34,7 @@ I’m a **3rd-year Computer Science student** at USTHB passionate about **front-
    My personal portfolio showcasing projects and blogs, built with Next.js + Tailwind.  
 
 - 🤖 [**Assembly Calculator**](https://github.com/romy-dev-hub/assembly-calculator)  
-   A low-level calculator supporting conversions, floating points, and clean UI.  
+   A low-level calculator supporting conversions, calculations, and clean UI.  
 
 ---
 
@@ -61,6 +61,12 @@ I’m a **3rd-year Computer Science student** at USTHB passionate about **front-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🎮 Game Development
+![LÖVE2D](https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge&logo=love2d&logoColor=white)
+![SDL2](https://img.shields.io/badge/SDL2-6D6D6D?style=for-the-badge&logo=SDL&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=yellow)
+![GameMaker Studio](https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 ---
 
