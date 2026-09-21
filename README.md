@@ -86,12 +86,10 @@ I like building things end-to-end: the idea, the architecture, the ugly first ve
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=romy-dev-hub&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FB923C&icon_color=FBBF24&text_color=c9d1d9&ring_color=F97316" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romy-dev-hub&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=FB923C&text_color=c9d1d9" />
+<img width="49%" src="https://raw.githubusercontent.com/romy-dev-hub/romy-dev-hub/main/profile-summary-card-output/gruvbox/3-stats.svg" alt="stats" />
+<img width="49%" src="https://raw.githubusercontent.com/romy-dev-hub/romy-dev-hub/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=romy-dev-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=FBBF24&fire=FBBF24&currStreakLabel=FB923C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=romy-dev-hub&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -101,7 +99,7 @@ I like building things end-to-end: the idea, the architecture, the ugly first ve
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=romy-dev-hub&bg_color=0D1117&color=FB923C&line=F97316&point=FBBF24&area=true&area_color=F97316&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/F97316/romy-dev-hub" width="100%" alt="contribution chart" />
 
 </div>
 
