@@ -5,16 +5,17 @@ on:
     - cron: "0 0 * * *"   # daily
   workflow_dispatch:       # manual run button
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/4
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
