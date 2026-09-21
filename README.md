@@ -1,111 +1,103 @@
+<h1 align="center">Hey, I'm Ro 👋🏻</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Xiao+Ro!;Front-End+%26+Games+Developer;Future+AI+Engineer;Podcaster;Nature+Lover" alt="Typing SVG" />
-  </a>
+  <strong>Full Stack Software Engineer · Founder & CEO of BridgeCode</strong>
 </p>
 
+<p align="center">
+  I build software, experiment with ideas, and occasionally make things harder than they need to be.
+</p>
+
+<p align="center">
+  <a href="https://bridgecode.space">BridgeCode</a>
+  ·
+  <a href="https://xiao-flax.vercel.app/">Portfolio</a>
+  ·
+  <a href="mailto:roumaissa.hadibi.dev@gmail.com">Email</a>
+</p>
+
+---
+
+## About
+
+I'm a Software Engineering graduate from USTHB based in Algiers, Algeria.
+
+I enjoy building products from the ground up — from the first idea and architecture to the actual code people use.
+
+Currently, most of my energy goes into **BridgeCode**, a learning platform I'm building for software engineering and computer science students.
+
+I'm particularly interested in:
+
+- Full-stack web development
+- Software architecture & backend systems
+- Developer tools and learning platforms
+- AI / computer vision
+- Security
+- Building products from scratch
+
+---
+
+## What I'm Building
+
+### 🌉 BridgeCode
+
+**Code with purpose.**
+
+BridgeCode is a learning platform designed around actually learning how to build software — combining structured learning, real projects, problem solving, and an AI tutor.
+
+→ https://bridgecode.space
+
+---
+
+## Tech I Work With
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### Web
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+### Backend & Infrastructure
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Selected Projects
+
+### 🌉 [BridgeCode](https://bridgecode.space)
+Learning platform for software engineering and CS students.
+
+### 💼 [Portfolio](https://xiao-flax.vercel.app/)
+My personal portfolio and projects.
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romy-dev-hub&show_icons=true&theme=merko&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romy-dev-hub&layout=compact&theme=merko&hide_title=true)
+
+<img src="https://github-readme-stats.vercel.app/api?username=romy-dev-hub&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romy-dev-hub&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## 🌿 About Me
-
-I’m a **3rd-year Computer Science student** at USTHB passionate about **front-end development, AI/ML, and creative game design**.  
-
-- 🎮 Built games in **Python, Java, Lua, and C**—blending logic with creativity  
-- 🌱 Currently diving deeper into **AI/ML, Three.js, and advanced React**  
-- 🎙️ Host of the **Legacy Podcast**, sharing meaningful stories  
-- 🌿 Dreaming of coding from a peaceful cabin in nature  
-- ✨ Obsessed with crafting immersive web experiences & intelligent systems  
-
----
-
-## 🚀 Featured Projects
-
-- 🎮 [**Dots & Boxes (C with Raylib)**](https://github.com/romy-dev-hub/dots-and-boxes)  
-   Classic grid-based game with clean design and interactive gameplay.  
-
-- 🌐 [**Portfolio Website**](https://xiao-ro-portfolio.vercel.app/)  
-   My personal portfolio showcasing projects and blogs, built with Next.js + Tailwind.  
-
-- 🤖 [**Assembly Calculator**](https://github.com/romy-dev-hub/assembly-calculator)  
-   A low-level calculator supporting conversions, calculations, and clean UI.  
-
----
-
-## 🛠️ Tech Stack
-
-### Core Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-8E0E80?style=for-the-badge)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Tools
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🎮 Game Development
-![LÖVE2D](https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge&logo=love2d&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-6D6D6D?style=for-the-badge&logo=SDL&logoColor=white)
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=yellow)
-![GameMaker Studio](https://img.shields.io/badge/GameMaker_Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romy-dev-hub&theme=merko)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:roumaissa.hadibi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://xiao-ro-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/romy-dev-hub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <sub>Building things, breaking things, learning things.</sub>
 </p>
-
-<p align="center">
-  <b>Discord:</b> sayonara_romy
-</p>
-
----
-
-<p align="center">
-  <i>"Code is my language. Legacy is my voice. The world is my canvas."</i>
-</p>
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=romy-dev-hub&color=22C55E)
-
-</div>
